@@ -13,32 +13,32 @@ type Tool = {
 const designTools: Tool[] = [
   {
     name: 'Figma',
-    icon: 'https://images.unsplash.com/photo-1667478052836-0c34659cad59?w=150&h=150&fit=crop',
+    icon: 'https://cdn.discordapp.com/attachments/802208832201031731/1350897030633099284/figma.png?ex=67d86866&is=67d716e6&hm=7d221f080654e333e0eb068588942dae3beed05555c3efad43fdcb5034f0b6e1&',
     url: 'figma.com'
   },
   {
     name: 'Adobe XD',
-    icon: 'https://images.unsplash.com/photo-1667477178775-e5cd5126b5bb?w=150&h=150&fit=crop',
+    icon: 'https://media.discordapp.net/attachments/802208832201031731/1350898389696381089/xd.png?ex=67d869aa&is=67d7182a&hm=1b234f2c2c4b7a325b647b921d7398c768d4e664529815c4a8023c8a9fcf738e&',
     url: 'adobe.com'
   },
   {
     name: 'Sketch',
-    icon: 'https://images.unsplash.com/photo-1667476845166-c16d9d00c67e?w=150&h=150&fit=crop',
+    icon: 'https://media.discordapp.net/attachments/802208832201031731/1350898389931397150/sketch.png?ex=67d869aa&is=67d7182a&hm=8b94155a8cbdd516104b7f57c940e79e93ca666dfb5c4d7ac9fd7d3c724469e0&',
     url: 'sketch.com'
   },
   {
     name: 'Framer',
-    icon: 'https://images.unsplash.com/photo-1667476642095-8d3d5a91b2ce?w=150&h=150&fit=crop',
+    icon: 'https://media.discordapp.net/attachments/802208832201031731/1350898390145175633/picture.png?ex=67d869aa&is=67d7182a&hm=d94bddf72e9095193930540af1a5ed84d2a5315986b73b502470f6dd9ab17cc5&',
     url: 'framer.com'
   },
   {
     name: 'Webflow',
-    icon: 'https://images.unsplash.com/photo-1667477177661-c17ad89a8755?w=150&h=150&fit=crop',
+    icon: 'https://media.discordapp.net/attachments/802208832201031731/1350898390388441099/images.png?ex=67d869aa&is=67d7182a&hm=cacdabb63dd3ad211db60c1e160608bc9363b444d8c2be7c2ea96fb99422355d&',
     url: 'webflow.com'
   },
   {
     name: 'Adobe Illustrator',
-    icon: 'https://images.unsplash.com/photo-1667477177648-e78fc0fa1b07?w=150&h=150&fit=crop',
+    icon: 'https://media.discordapp.net/attachments/802208832201031731/1350898390606680064/illustrator.png?ex=67d869aa&is=67d7182a&hm=f19c53b91d3254b26393808b213345f1186592785f926c3e0770e7ce16d76785&',
     url: 'adobe.com'
   }
 ];
